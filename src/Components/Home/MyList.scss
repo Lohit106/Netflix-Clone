@@ -1,0 +1,10 @@
+$bg: rgb(16,16,16);
+div{
+    height: 100%;
+    background-color: $bg;
+}
+.backbg{
+    height: max-content;
+    width: max-content;
+    background-color: $bg;
+}
